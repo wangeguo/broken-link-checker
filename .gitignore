@@ -1,0 +1,7 @@
+.git
+.idea
+.venv
+.vscode
+**/target
+.DS_Store
+*.egg-info
